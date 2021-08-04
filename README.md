@@ -4,7 +4,7 @@
 
 Welcome to my page!
 
-- 🔥 Name: Sanjay Selvadevan 
+- 🔥 Name: Sanjay
 - 💙 I'm a Student who loves Math And Science.
 - 🌱 I’m currently learning Python and HTML and JS
 - 🥔 I love Potatoes!
